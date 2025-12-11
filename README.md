@@ -10,7 +10,7 @@ I care about systems that actually work: clean code, solid testing, and pragmati
 
 ## What I Do
 
-I specialise in **full-stack system design**: building distributed architectures that scale without falling apart. You'll find me working on event-driven systems, Domain-Driven Design, and cloud infrastructure, mostly in the .NET and fintech space. At Propelle, I architect and maintain 13 microservices handling wealth management, trading, compliance, and account management.
+I specialise in **full-stack system design**: building distributed architectures that scale without falling apart. You'll find me working on event-driven systems, Domain-Driven Design, and cloud infrastructure, mostly in the .NET and fintech space. At Propelle, I architect and maintain 26 microservices handling wealth management, trading, compliance, and account management.
 
 ---
 
