@@ -94,7 +94,7 @@ I'm particularly keen to help junior developers navigate system design and testi
 
 **Connect with me:**
 - 📝 [Tech Blog](https://harveysingh.xyz) – Articles on architecture, debugging, and building systems
-- 💼 [LinkedIn](https://linkedin.com/in/harveylx)
+- 💼 [LinkedIn](https://linkedin.com/in/harveylx1)
 
 ---
 
