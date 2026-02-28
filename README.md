@@ -72,17 +72,17 @@ I specialise in **full-stack system design**: building distributed architectures
 
 ## What I'm Into
 
-🏗️ **System design** – distributed systems, event-driven architecture, scaling without chaos
+**System design** – distributed systems, event-driven architecture, scaling without chaos
 
-🎯 **Domain-Driven Design** – modelling complex problems the right way, where the code reflects the business
+**Domain-Driven Design** – modelling complex problems the right way, where the code reflects the business
 
-☁️ **Cloud platforms** – GCP, AWS, infrastructure as code, managing complexity at scale
+**Cloud platforms** – GCP, AWS, infrastructure as code, managing complexity at scale
 
-✅ **Testing & quality** – integration tests, testcontainers, building confidence in deployments
+**Testing & quality** – integration tests, testcontainers, building confidence in deployments
 
-📚 **Sharing knowledge** – I write about architecture, fintech, and debugging on my [tech blog](https://harveysingh.xyz)
+**Sharing knowledge** – I write about architecture, fintech, and debugging on my [tech blog](https://harveysingh.xyz)
 
-🎓 **Mentoring** – helping junior developers and teams level up their architecture and testing practices
+**Mentoring** – helping junior developers and teams level up their architecture and testing practices
 
 ---
 
