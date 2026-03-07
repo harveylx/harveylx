@@ -2,7 +2,7 @@
 
 # Hey, I'm Harvey
 
-Software engineer at Propelle, a fintech startup where I look after 26 microservices handling wealth management, trading, compliance, and account admin. Mostly .NET, mostly event-driven.
+Software Engineer at a fintech where I look after 26 microservices handling wealth management, trading, compliance, and account admin. Mostly .NET, mostly event-driven.
 
 I write about architecture and debugging at [harveysingh.xyz](https://harveysingh.xyz).
 
