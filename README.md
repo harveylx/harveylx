@@ -1,32 +1,22 @@
-![Harvey Singh - Building Scalable Systems](https://img.shields.io/badge/HARVEY%20SINGH-Full%20Stack%20System%20Design-00A8E8?style=for-the-badge&labelColor=001D3D&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzAwMUQzRCIvPjwvc3ZnPg==)
+![Harvey Singh](https://img.shields.io/badge/HARVEY%20SINGH-Full%20Stack%20System%20Design-00A8E8?style=for-the-badge&labelColor=001D3D&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzAwMUQzRCIvPjwvc3ZnPg==)
 
-# Hey, I'm Harvey 👋
+# Hey, I'm Harvey
 
-Building scalable systems with **.NET**, **cloud**, and **good design principles**. Currently architecting microservices at a fintech startup.
+Software engineer at Propelle, a fintech startup where I look after 26 microservices handling wealth management, trading, compliance, and account admin. Mostly .NET, mostly event-driven.
 
-I care about systems that actually work: clean code, solid testing, and pragmatic solutions over complexity.
-
----
-
-## What I Do
-
-I specialise in **full-stack system design**: building distributed architectures that scale without falling apart. You'll find me working on event-driven systems, Domain-Driven Design, and cloud infrastructure, mostly in the .NET and fintech space. At Propelle, I architect and maintain 26 microservices handling wealth management, trading, compliance, and account management.
+I write about architecture and debugging at [harveysingh.xyz](https://harveysingh.xyz).
 
 ---
 
-## My Engineering Principles
+## How I think about software
 
-✓ **Simplicity wins** – Complex code is a liability. I favour boring, predictable systems over clever ones.
+I like boring systems. If something breaks at 2am I want to understand it immediately, not sit there admiring how elegant it was.
 
-✓ **Tests are truth** – If it's not tested, it's broken. Tests document intent better than comments ever will.
-
-✓ **Domain language matters** – Code should speak the business language. DDD helps us there.
-
-✓ **Pragmatism over perfection** – Shipping a good solution today beats a perfect solution next month.
+I lean heavily on tests and DDD. Tests because I've shipped enough bugs to know I can't trust myself at 5pm on a Friday. DDD because life gets easier when your code and your product team use the same words for things.
 
 ---
 
-## Tech Stack
+## Tech I work with
 
 **Languages**
 
@@ -36,7 +26,7 @@ I specialise in **full-stack system design**: building distributed architectures
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend & Architecture**
+**Backend & architecture**
 
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![FastEndpoints](https://img.shields.io/badge/FastEndpoints-FF6B35?style=flat-square&logo=github&logoColor=white)
@@ -45,7 +35,7 @@ I specialise in **full-stack system design**: building distributed architectures
 ![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-FF6B35?style=flat-square)
 ![Event%20Driven](https://img.shields.io/badge/Event%20Driven-FF6B35?style=flat-square)
 
-**Cloud & Infrastructure**
+**Cloud & infrastructure**
 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -54,7 +44,7 @@ I specialise in **full-stack system design**: building distributed architectures
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-F47920?style=flat-square&logo=pulumi&logoColor=white)
 
-**Data & Databases**
+**Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
@@ -62,7 +52,7 @@ I specialise in **full-stack system design**: building distributed architectures
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=flat-square&logo=amazon&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Testing & Quality**
+**Testing**
 
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=flat-square&logo=docker&logoColor=white)
@@ -70,34 +60,14 @@ I specialise in **full-stack system design**: building distributed architectures
 
 ---
 
-## What I'm Into
+## Outside work
 
-**System design** – distributed systems, event-driven architecture, scaling without chaos
+I'm rebuilding a classic E30 BMW - engine conversion and turbo are next. I also train Muay Thai and Boxing. The
+bruises are intentional.
 
-**Domain-Driven Design** – modelling complex problems the right way, where the code reflects the business
-
-**Cloud platforms** – GCP, AWS, infrastructure as code, managing complexity at scale
-
-**Testing & quality** – integration tests, testcontainers, building confidence in deployments
-
-**Sharing knowledge** – I write about architecture, fintech, and debugging on my [tech blog](https://harveysingh.xyz)
-
-**Mentoring** – helping junior developers and teams level up their architecture and testing practices
+If you're a junior dev figuring out system design or testing, happy to chat - reach out on
+[LinkedIn](https://linkedin.com/in/harveylx1).
 
 ---
 
-## Let's Chat
-
-Got questions about system design, microservices, DDD, or fintech? I'm always happy to discuss.
-
-I'm particularly keen to help junior developers navigate system design and testing. If you're early in your career and want to discuss architecture or pair on problems, reach out.
-
-**Connect with me:**
-- 📝 [Tech Blog](https://harveysingh.xyz) – Articles on architecture, debugging, and building systems
-- 💼 [LinkedIn](https://linkedin.com/in/harveylx1)
-
----
-
-## Fun Stuff
-
-In my spare time, I'm deep into car restoration: currently rebuilding a classic E30 BMW with plans for an engine conversion and turbo setup. Also an avid Muay Thai and Boxing practitioner (yes, those bruises are intentional).
+[Blog](https://harveysingh.xyz) · [LinkedIn](https://linkedin.com/in/harveylx1)
